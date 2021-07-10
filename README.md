@@ -1,1 +1,3 @@
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/RzxI8wvKU64)
+[![IMAGE ALT TEXT HERE](https://github.com/shambanna-u/Ansible/blob/main/images/ansible.PNG)](https://youtu.be/QVA_XHgI-58)
+[![IMAGE ALT TEXT HERE](https://github.com/shambanna-u/Ansible/blob/main/images/ansible-2.PNG)](https://youtu.be/RzxI8wvKU64)
+
