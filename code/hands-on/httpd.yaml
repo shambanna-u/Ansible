@@ -1,0 +1,15 @@
+---
+- name: apache
+  hosts: all
+  become: true
+  tasks:
+   - name: httpd
+     yum:
+      name: httpd
+      state: present
+   - name: copy index.html
+     copy: src=index.html dest=/var/www/html/index.html owner=apache group=apache mode=0644
+   - name: restart
+     service:
+       name: httpd
+       state: restarted
