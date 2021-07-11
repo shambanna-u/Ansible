@@ -18,6 +18,7 @@ start() {
 stop() {
     # code to stop app comes here 
     # example: killproc program_name
+    echo "stop"
 }
 
 case "$1" in 
