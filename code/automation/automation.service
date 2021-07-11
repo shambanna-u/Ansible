@@ -1,0 +1,9 @@
+[Unit]
+Descriptin= install httpd with ansible.
+
+[Service]
+Type=simple
+ExecStart=/bin/bash /usr/bin/automate.sh
+
+[Install]
+WantedBy=multi-user.target
