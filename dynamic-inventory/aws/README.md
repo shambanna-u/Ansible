@@ -1,3 +1,4 @@
+# Ansible Dynamic Inventory with AWS
 * Create User *ansible* with Programmatic access and give AmazonEC2FullAccess access, store the keys.
 * Open the cloudshell.
 * Install the ansible.
