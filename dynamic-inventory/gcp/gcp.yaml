@@ -1,0 +1,7 @@
+---
+plugin: gcp_compute
+projects:
+  - shambu-wmt
+filters: []
+auth_kind: serviceaccount
+service_account_file: /home/shambu_wmt/shambu-wmt.json
