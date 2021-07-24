@@ -34,4 +34,7 @@ keyed_groups:
  `ansible -i aws_ec2.yaml all -m ping`
  * Run httpd.yaml playbook to install httpd.
  * File is availble in this git directory
- 
+
+# Watch Video
+ ## Ansible Dynamic Inventory with AWS
+[![IMAGE ALT TEXT HERE](https://github.com/shambanna-u/Ansible/blob/main/images/aws.PNG)](https://youtu.be/ZI33JGWzvf4)
