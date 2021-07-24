@@ -16,4 +16,4 @@
 [![IMAGE ALT TEXT HERE](https://github.com/shambanna-u/Ansible/blob/main/images/aws.PNG)](https://youtu.be/ZI33JGWzvf4)
 
 ## Ansible Dynamic Inventory with GCP
-[![IMAGE ALT TEXT HERE](https://github.com/shambanna-u/Ansible/blob/main/images/gcp.PNG)](https://youtu.be/3ykVuk1pS2A)
+[![IMAGE ALT TEXT HERE](https://github.com/shambanna-u/Ansible/blob/main/images/gcp.PNG)](https://youtu.be/gVEehMDVVN0)
