@@ -28,4 +28,6 @@ service_account_file: /home/shambu_wmt/shambu-wmt.json
  `ansible -i gcp.yaml all -m ping`
  * Run httpd.yaml playbook to install httpd.
  * File is availble in this git directory
- 
+# Watch Video
+## Ansible Dynamic Inventory with GCP
+[![IMAGE ALT TEXT HERE](https://github.com/shambanna-u/Ansible/blob/main/images/gcp.PNG)](https://youtu.be/3ykVuk1pS2A)
